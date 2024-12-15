@@ -1,0 +1,11 @@
+Ziehn, Tilo; Chamberlain, Matthew; Lenton, Andrew; Law, Rachel; Bodman, Roger; Dix, Martin; Wang, Yingping; Dobrohotoff, Peter; Srbinovsky, Jhan; Stevens, Lauren; Vohralik, Peter; Mackallah, Chloe; Sullivan, Arnold; O'Farrell, Siobhan; Druken, Kelsey (2019). CSIRO ACCESS-ESM1.5 model output prepared for CMIP6 ScenarioMIP ssp126. Earth System Grid Federation. doi:https://doi.org/10.22033/ESGF/CMIP6.4320
+
+Ziehn, Tilo; Chamberlain, Matthew; Lenton, Andrew; Law, Rachel; Bodman, Roger; Dix, Martin; Wang, Yingping; Dobrohotoff, Peter; Srbinovsky, Jhan; Stevens, Lauren; Vohralik, Peter; Mackallah, Chloe; Sullivan, Arnold; O'Farrell, Siobhan; Druken, Kelsey (2019). CSIRO ACCESS-ESM1.5 model output prepared for CMIP6 ScenarioMIP ssp585. Earth System Grid Federation. doi:https://doi.org/10.22033/ESGF/CMIP6.4333
+
+Danabasoglu, Gokhan (2019). NCAR CESM2 model output prepared for CMIP6 ScenarioMIP ssp585. Earth System Grid Federation. doi:https://doi.org/10.22033/ESGF/CMIP6.7768
+
+Boucher, Olivier; Denvil, Sébastien; Levavasseur, Guillaume; Cozic, Anne; Caubel, Arnaud; Foujols, Marie-Alice; Meurdesoif, Yann; Cadule, Patricia; Devilliers, Marion; Dupont, Eliott; Lurton, Thibaut (2019). IPSL IPSL-CM6A-LR model output prepared for CMIP6 ScenarioMIP ssp585. Earth System Grid Federation. doi:https://doi.org/10.22033/ESGF/CMIP6.5271
+
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp585
+
+Shim, Sungbo; Lim, Yoon-Jin; Byun, Young-Hwa; Seo, Jeongbyn; Kwon, Sanghun; Kim, Byeong-Hyeon (2021). NIMS-KMA UKESM1.0-LL model output prepared for CMIP6 ScenarioMIP ssp585. Earth System Grid Federation. doi:https://doi.org/10.22033/ESGF/CMIP6.8457
